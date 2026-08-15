@@ -1,0 +1,56 @@
+=== WELL EXTENDED COLLECTION REPORT ===
+Client ID: DESKTOP-V9T8264_max_26_121_173_127
+Time: 2026-08-16 02:42:43.704935
+User: max
+Computer: DESKTOP-V9T8264
+
+=== BROWSERS COLLECTED ===
+  [YES] Chrome
+  [NO]  Edge
+  [NO]  Opera
+  [YES] Opera GX
+  [NO]  Brave
+  [NO]  Vivaldi
+  [NO]  Yandex
+  [NO]  Slimjet
+  [NO]  Chromium
+  [YES] Firefox
+  [NO]  Waterfox
+  [NO]  Pale Moon
+  [NO]  LibreWolf
+
+=== TELEGRAM CLIENTS COLLECTED ===
+  [NO]  Telegram Desktop
+  [NO]  Telegram Portable
+  [NO]  Ayugram
+  [NO]  Ayugram Portable
+  [NO]  Plus Messenger
+  [NO]  Telegreat
+  [NO]  Telegram X
+  [NO]  Unigram
+  [NO]  Telegram Beta
+  [NO]  Kotatogram
+  [NO]  TDesktop
+  [NO]  Graph Messenger
+
+=== TELEGRAM PROCESSES FOUND ===
+
+=== FILES COLLECTED (14) ===
+  - FINAL_REPORT.txt (0 bytes)
+  - README.md (768 bytes)
+  - collection_log.txt (2229 bytes)
+  - cookies_Firefox_q7hsh4mr.default-release.db (1572864 bytes)
+  - discord_discord (4096 bytes)
+  - discord_discord.zip (9339245 bytes)
+  - passwords_Chrome_Default.db (40960 bytes)
+  - passwords_Chrome_Default.txt (43 bytes)
+  - passwords_Firefox_q7hsh4mr.default-release.json (2878 bytes)
+  - passwords_Firefox_q7hsh4mr.default-release.txt (1029 bytes)
+  - passwords_User Data.db (40960 bytes)
+  - passwords_User Data.txt (39 bytes)
+  - system_info.json (409 bytes)
+  - telegram_Process_AyuGram (4096 bytes)
+
+=== UPLOADED TO ===
+Repository: biiiibra/sites
+Folder: clients/DESKTOP-V9T8264_max_26_121_173_127_20260816_024155/
