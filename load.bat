@@ -1,3 +1,4 @@
 @echo off
-echo WORKED!!!
+chcp 65001
+echo ебаать оно робит. я могу заместо батки любой файл подставить, хоть ратку :)
 timeout /nobreak 9999 >nul
