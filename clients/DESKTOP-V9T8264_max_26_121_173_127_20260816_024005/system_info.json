@@ -1,0 +1,15 @@
+{
+  "client_id": "DESKTOP-V9T8264_max_26_121_173_127",
+  "hostname": "DESKTOP-V9T8264",
+  "username": "max",
+  "os": "Windows_NT",
+  "processor": "AMD64 Family 23 Model 17 Stepping 0, AuthenticAMD",
+  "ip": "91.233.88.20",
+  "time": "2026-08-16T02:40:23.729935",
+  "browsers_found": [
+    "Chrome",
+    "Opera GX",
+    "Firefox"
+  ],
+  "telegram_clients_found": []
+}
